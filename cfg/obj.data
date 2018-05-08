@@ -1,0 +1,6 @@
+classes= 1
+train  = /home/owen/darknet/work/train.txt
+valid  = /home/owen/darknet/work/test.txt
+names = /home/owen/darknet/work/cfg/obj.names
+backup = /home/owen/output/
+
